@@ -14,7 +14,7 @@ The Scrimba Times is a web application that allows users to view and manage news
 
 Below is a visual representation of the website page:
 
-![Home](Index.png)
+![Home](index.png)
 
 ## Getting Started
 
