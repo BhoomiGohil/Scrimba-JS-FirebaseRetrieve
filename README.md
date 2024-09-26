@@ -28,13 +28,13 @@ Below is a visual representation of the website page:
 1. Clone this repository to your local machine using:
 
 ```bash
-   git clone https://github.com/BhoomiGohil/javascript-scrimba-learn-javascript-build-a-mobile-app-latest-news.git
+   git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCourseLastestNews.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd javascript-scrimba-learn-javascript-build-a-mobile-app-latest-news
+cd Scrimba-JavaScriptCourseLastestNews
 ```
 
 3. **Open the `index.html` file in your web browser.**
